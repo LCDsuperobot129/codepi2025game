@@ -1,5 +1,15 @@
 README FILE
 
-This repository is for my Roblox STEM game made for CodePi 2025. Created by ckev78
-Code language is Lua.
+This repository is for my Roblox STEM game made for CodePi 2025. Created by ckev78 (LCDsuperobot129) and GoatedOnWLR.
+Programming language is Lua.
 Some aspects and files will only be functional on Roblox Studio, as it has special functions and objects.
+
+Roblox Game Link: https://www.roblox.com/games/91100180965981/Xscape -- COPY AND PASTE THIS INTO YOUR BROWSER'S SEARCH BAR; YOU MUST HAVE ROBLOX DOWNLOADED AND HAVE A ROBLOX ACCOUNT TO PLAY THIS ROBLOX GAME!
+
+-- File Inspecting
+TO DO THE FOLLOWING, YOU MUST DOWNLOAD ROBLOX STUDIO AND HAVE A ROBLOX ACCOUNT (Download Roblox as well if you want to play Xscape, our Roblox game.)
+
+If you want to open a .rbxm file, you have to download the .rbxm file, load Roblox Studio, go to Workspace, right click, select insert from file, and import the .rbxm file you want.
+
+The viewable scripts are in the programming language Lua, but they are not .lua files. Copy and paste the script(s)'s code into a script in Roblox Studio.
+Some code may be in a script, localscript, and in different parents. So, it may not work if it is not the correct type of script or the wrong parent.
