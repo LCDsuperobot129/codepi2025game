@@ -13,3 +13,6 @@ If you want to open a .rbxm file, you have to download the .rbxm file, load Robl
 
 The viewable scripts are in the programming language Lua, but they are not .lua files. Copy and paste the script(s)'s code into a script in Roblox Studio.
 Some code may be in a script, localscript, and in different parents. So, it may not work if it is not the correct type of script or the wrong parent.
+
+-- Github Repo Folders
+Folders have names that are directly attributed to the built-in services and folders in Roblox Studio by default.
