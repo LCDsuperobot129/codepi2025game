@@ -11,7 +11,7 @@ TO DO THE FOLLOWING, YOU MUST DOWNLOAD ROBLOX STUDIO AND HAVE A ROBLOX ACCOUNT (
 
 If you want to open a .rbxm file, you have to download the .rbxm file, load Roblox Studio, go to Workspace, right click, select insert from file, and import the .rbxm file you want.
 
-The viewable scripts are in the programming language Lua, but they are not .lua files. Copy and paste the script(s)'s code into a script in Roblox Studio.
+The viewable scripts are in the programming language Lua, the language for Roblox Studio. Copy and paste the script(s)'s code into a script in Roblox Studio.
 Some code may be in a script, localscript, and in different parents. So, it may not work if it is not the correct type of script or the wrong parent.
 
 Also, some indentations and spaces are increased on Github for some reason, and it may look weird. Please ignore.
